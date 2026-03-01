@@ -1,0 +1,30 @@
+# 🧠 Proyecto CIFAR-10 Deep Learning
+
+¡Hola! Bienvenid@ a este repositorio. 
+
+Este espacio está destinado a almacenar los notebooks de Google Colab creados para el entrenamiento, prueba y evaluación de redes neuronales utilizando el dataset **CIFAR-10**.
+
+## 📊 Sobre el Dataset (CIFAR-10)
+El conjunto de datos CIFAR-10 es un clásico en el mundo de la visión por computadora y el Deep Learning. Consiste en 60,000 imágenes a color de 32x32 píxeles, divididas equitativamente en 10 clases diferentes:
+* Aviones ✈️
+* Coches 🚗
+* Pájaros 🐦
+* Gatos 🐈
+* Ciervos 🦌
+* Perros 🐕
+* Ranas 🐸
+* Caballos 🐎
+* Barcos 🚢
+* Camiones 🚚
+
+## 📂 Contenido del Repositorio
+* **Notebooks de Colab (`.ipynb`)**: Scripts con el código paso a paso para la carga de datos, preprocesamiento, construcción del modelo, entrenamiento y evaluación.
+* Experimentos con diferentes hiperparámetros y arquitecturas de redes neuronales.
+
+## 🛠️ Tecnologías y Herramientas
+* **Lenguaje:** Python
+* **Entorno:** Google Colab
+* **Librerías principales:** TensorFlow / Keras (o PyTorch), NumPy, Matplotlib.
+
+---
+*Repositorio creado para fines de aprendizaje y experimentación en Deep Learning.*
